@@ -1,9 +1,6 @@
-# Project_Template
-Serves as the template for new projects
+# OIC-215 Progeria Nuc
 
-Python Environment:
-```
-Packages listed here
-```
+IHC HDAB stained tissues analyzed using QuPath(v6.0) with the following extensions:
 
-Describe content of subfolders, if applicable.
+- SAM (v7.0) [used to generate tissue outlines]
+- CellPose QuPath Extension (v11.0) with CellPose (v.3.1) [used to detect nuclei]
